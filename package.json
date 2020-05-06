@@ -1,0 +1,16 @@
+{
+  "name": "erase-chat",
+  "version": "1.0.0",
+  "description": "A chatroom where message delete in 1 minute.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "socket.io": "2.0.4"
+  },
+  "author": "Priyanshu Joshi",
+  "license": "WTFPL"
+}

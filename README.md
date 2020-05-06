@@ -1,2 +1,4 @@
 # erase-chat
-A chatroom where message delete in 1 minute
+To run the application in your machine type :
+1. npm install
+2. npm start
